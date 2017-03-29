@@ -1,0 +1,9 @@
+c:\users\kusha_000\documents\visual studio 2012\Projects\PizzaDelivery1\PizzaDelivery1\bin\Debug\PizzaDelivery1.exe.config
+c:\users\kusha_000\documents\visual studio 2012\Projects\PizzaDelivery1\PizzaDelivery1\bin\Debug\PizzaDelivery1.exe
+c:\users\kusha_000\documents\visual studio 2012\Projects\PizzaDelivery1\PizzaDelivery1\bin\Debug\PizzaDelivery1.pdb
+c:\users\kusha_000\documents\visual studio 2012\Projects\PizzaDelivery1\PizzaDelivery1\obj\Debug\PizzaDelivery1.csprojResolveAssemblyReference.cache
+c:\users\kusha_000\documents\visual studio 2012\Projects\PizzaDelivery1\PizzaDelivery1\obj\Debug\PizzaDelivery1.Pizza.resources
+c:\users\kusha_000\documents\visual studio 2012\Projects\PizzaDelivery1\PizzaDelivery1\obj\Debug\PizzaDelivery1.Properties.Resources.resources
+c:\users\kusha_000\documents\visual studio 2012\Projects\PizzaDelivery1\PizzaDelivery1\obj\Debug\PizzaDelivery1.csproj.GenerateResource.Cache
+c:\users\kusha_000\documents\visual studio 2012\Projects\PizzaDelivery1\PizzaDelivery1\obj\Debug\PizzaDelivery1.exe
+c:\users\kusha_000\documents\visual studio 2012\Projects\PizzaDelivery1\PizzaDelivery1\obj\Debug\PizzaDelivery1.pdb
